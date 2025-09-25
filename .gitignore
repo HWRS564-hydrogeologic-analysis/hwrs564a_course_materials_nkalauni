@@ -5,6 +5,7 @@ __pycache__/
 
 .DS_Store
 modflow/
+uv.lock
 
 # C extensions
 *.so
